@@ -109,7 +109,7 @@ const translations = {
         contactInputTwo : 'Email',
         contactInputThree : 'Type your message...',
         contactFormBtn : 'Send',
-        footer : '© 2020, Espra. Terms & Privacy'
+        footer : '© 2020, ArzaaTech. Terms & Privacy'
     },
     ar: {
         home: 'الرئيسية',
@@ -221,7 +221,7 @@ const translations = {
         contactInputTwo : 'البريد الالكتروني',
         contactInputThree : 'اكتب رسالتك هنا...',
         contactFormBtn : 'ارسال',
-        footer : '© 2020, جميع الحقوق محفوظة الي فريق عمل شركة إسبرا'
+        footer : '© 2020, جميع الحقوق محفوظة الي فريق عمل شركة ارزاق تك'
     }
 }
 
